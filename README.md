@@ -1,4 +1,4 @@
-#Dynamic Data Table Manager
+# Dynamic Data Table Manager
 
 This project is a Dynamic Data Table Manager built with Next.js 14 (App Router), TypeScript, Redux Toolkit, Material UI v5+, React Hook Form, PapaParse, FileSaver.js, and Redux Persist.
 
